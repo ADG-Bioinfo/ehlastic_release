@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1378733934.svg)](https://doi.org/10.5281/zenodo.22974488)
+
 # EHLAstic Release
 
 This repository contains the release package for the EHLAstic HLA-E analysis notebooks and figure-generation workflow.
